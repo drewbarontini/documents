@@ -1,3 +1,6 @@
+CoffeeScript Class
+==================
+
 ```coffeescript
 class @Klass
 
