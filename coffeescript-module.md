@@ -1,3 +1,6 @@
+CoffeeScript Module
+===================
+
 ```coffeescript
 ### 
   Set up the namespace, if it doesn't already exist to make
