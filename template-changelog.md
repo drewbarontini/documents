@@ -1,19 +1,17 @@
 Template - Changelog
 ====================
 
-v0.0.1
-------
+v0.0.1 - 2014-03-27
+-------------------
 
-**2014-03-27**
-
-### Adds
+### Added
 
 - Adds something
 
-### Removes
+### Removed
 
 - Adds something
 
-### Fixes
+### Fixed
 
 - Adds something
