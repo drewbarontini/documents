@@ -9,3 +9,5 @@ Categories
 - CoffeeScript
 - jQuery
 - Sass
+- Vim
+- Template
