@@ -81,7 +81,7 @@ git checkout -b feature_branch_name
 Pull Requests
 -------------
 
-Pull Requests are great on GitHub, because they allow you to view changes and conversations in a centralized location. Additionally, they are great for code reviews.
+Pull Requests are great on GitHub, because they allow you to view changes and conversations in a centralized location. Additionally, they are great for ode reviews.
 
 Like your commit messages, your Pull Request description should do a thorough job:
 
