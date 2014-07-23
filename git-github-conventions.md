@@ -9,15 +9,27 @@ There are few good methods for handling how/when you commit.
 1. Break your commits down into smaller chunks
 2. Make sure each commit contains only necessary, related changes
 
-### Use Interactive Staging
+### Interactive Staging
 
-If you do make several, unrelated changes, use Git's Interactive Staging.
+If you do make several, unrelated changes, use [Git's Interactive Staging](http://git-scm.com/book/en/Git-Tools-Interactive-Staging).
 
 ```bash
 git add -p file.html
 ```
 
 Then, you can split and stage multiple parts of the file.
+
+### Interactive Rebase
+
+Conversely, if you make separate commits that are related to the same thing, you can use [Git's Interactive Rebase](http://git-scm.com/book/en/Git-Tools-Rewriting-History).
+
+```bash
+git rebase -i HEAD~2
+```
+
+It looks weird, but just know that the final number reflects the number of commits from the top of the `HEAD` that you want to rebase. In this instance, we want to rebase the last two commits, so we type `HEAD~2`.
+
+Now you'll be able to squash your last two commits together, and edit the single commit message.
 
 Commit Messages
 ---------------
