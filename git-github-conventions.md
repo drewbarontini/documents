@@ -34,7 +34,7 @@ Now you'll be able to squash your last two commits together, and edit the single
 Commit Messages
 ---------------
 
-Read these articles!
+Read these articles:
 
 - [A Note About Git Commit Messages](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
 - [5 Useful Tips For A Better Commit Message](http://robots.thoughtbot.com/5-useful-tips-for-a-better-commit-message)
