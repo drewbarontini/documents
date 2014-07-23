@@ -1,11 +1,6 @@
 Git/GitHub Conventions
 ======================
 
-- Commits
-- Commit messages
-- Feature branches
-- Pull Requests
-
 Commits
 -------
 
