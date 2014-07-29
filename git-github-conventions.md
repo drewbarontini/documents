@@ -66,7 +66,7 @@ Rather than just doing `git commit`, I like to run `git commit --verbose`, which
 
 ### Writing Good Commit Messages
 
-```bash
+```
 Subject line (50 chars.)
 
 Additional explanation and summary here, if necessary. (72 chars.)
