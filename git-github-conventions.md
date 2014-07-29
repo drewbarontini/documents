@@ -64,6 +64,20 @@ git config --global core.editor vim
 
 Rather than just doing `git commit`, I like to run `git commit --verbose`, which will print out the diff of your changes below your commit message writing area. This is nice because you can write, scroll down and look at your changes, go back and write, etc.
 
+### Writing Good Commit Messages
+
+```bash
+Subject line (50 chars.)
+
+Additional explanation and summary here, if necessary. (72 chars.)
+
+- Use hyphens to write out a list
+- That will break down the commit
+- If necessary
+
+[Refs #12] (Use this format for referencing a GitHub Issue)
+```
+
 Feature Branches
 ----------------
 
