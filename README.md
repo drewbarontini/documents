@@ -7,6 +7,7 @@ Categories
 ----------
 
 - CoffeeScript
+- Haml
 - Git & GitHub
 - jQuery
 - Sass
