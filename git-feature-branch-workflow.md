@@ -1,7 +1,7 @@
 Git Feature Branch Workflow
 ===========================
 
-1. Create the `git_remote_tracking_branch` function.
+First, create the `git_remote_tracking_branch` function. Put it in your `bash_profile` or relevant file in your `dotfiles` setup.
 
 ```shell
 # ----------------------------------------------------
@@ -19,7 +19,7 @@ function git_remote_tracking_branch() {
 }
 ```
 
-2. Install [Hub](https://github.com/github/hub).
+Next, install [Hub](https://github.com/github/hub).
 
 Workflow
 --------
