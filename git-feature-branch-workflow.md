@@ -1,7 +1,9 @@
 Git Feature Branch Workflow
 ===========================
 
-First, create the `git_remote_tracking_branch` function. Put it in your `bash_profile` or relevant file in your `dotfiles` setup.
+First, create the `git_remote_tracking_branch` function. 
+
+(Put it in your `bash_profile` or relevant file in your `dotfiles` setup.)
 
 ```shell
 # ----------------------------------------------------
