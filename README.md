@@ -7,9 +7,9 @@ Categories
 ----------
 
 - CoffeeScript
-- Haml
+- Haml/HTML
 - Git & GitHub
 - jQuery
-- Sass
+- Sass/CSS
 - Vim
 - Template
