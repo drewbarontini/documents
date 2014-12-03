@@ -29,6 +29,6 @@ Workflow
 - Check out `master`.
 - Run `git_remote_tracking_branch BRANCH_NAME`.
 - Make your changes, commit, and push.
-- When ready, create Pull Request with `hub pull-request`, entering the title/description and save/quit the file.
+- When ready, create a Pull Request with `hub pull-request`, entering the title/description and save/quit the file.
 
 Now, you'll have your Pull Request opened for your feature branch!
