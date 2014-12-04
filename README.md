@@ -10,6 +10,7 @@ Categories
 - Haml/HTML
 - Git & GitHub
 - jQuery
+- OSX
 - Sass/CSS
 - Vim
 - Template
