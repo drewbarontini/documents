@@ -58,8 +58,6 @@ Interior
 
 **Interior** elements inside of **Root** elements receive a single-line space in between.
 
-**Note**: If there is a _single_ **Interior** element inside of a **Root** element, you can opt to omit the space, only adding it once there are more **Interior** elements.
-
 ```haml
 / Layout
 .row
@@ -95,4 +93,23 @@ Interior
           
           / Interior
           %a{ href: '#' } And a link!
+```
+
+**Note**: If there is a _single_ **Interior** element inside of a **Root** element, you can opt to omit the space, only adding it once there are more **Interior** elements. For example:
+
+```haml
+/ Layout
+.row
+  .cell.well
+    .g
+      .g-b.g-b--1of2
+      
+        / Root
+        .card.card--a
+          / Interior
+          %ul.list
+            %li.list-item Item
+            %li.list-item Item
+            %li.list-item Item
+            %li.list-item Item
 ```
