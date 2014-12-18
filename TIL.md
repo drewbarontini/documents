@@ -9,6 +9,10 @@ Today I Learned
 
 - Putting `-#` (Ruby comment) and nesting inside of it will comment out an entire block of Haml without having to comment out each line individually.
 
+**OS X**
+
+- `Command+Option+H` hides all windows but the currently focused one.
+
 **Ruby & Ruby on Rails**
 
 - In the console, you can type `_` as the previous command (e.g. `user = _` setting `user` to the previous command you just ran).
