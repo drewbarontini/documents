@@ -1,6 +1,10 @@
 Today I Learned
 ===============
 
+**General**
+
+- If you use `rsync` for deployment, and you're repeatedly asked to enter your password, you have to paste your public key into `.ssh/authorized_keys` on your server.
+
 **Haml**
 
 - Putting `-#` (Ruby comment) and nesting inside of it will comment out an entire block of Haml without having to comment out each line individually.
