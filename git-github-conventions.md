@@ -38,6 +38,7 @@ Read these articles:
 
 - [A Note About Git Commit Messages](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
 - [5 Useful Tips For A Better Commit Message](http://robots.thoughtbot.com/5-useful-tips-for-a-better-commit-message)
+- [How to Write a Git Commit Message](http://chris.beams.io/posts/git-commit/)
 
 I'm not a fan of the single-line commit command.
 
@@ -75,7 +76,7 @@ Additional explanation and summary here, if necessary. (72 chars.)
 - That will break down the commit
 - If necessary
 
-[Refs #12] (Use this format for referencing a GitHub Issue)
+Refs: #12 (Use this format for referencing a GitHub Issue)
 ```
 
 Feature Branches
