@@ -27,3 +27,26 @@ Use single-line spaces for nested blocks.
     +respond-to()
       // ...
 ```
+
+Use single-line spaces after loops (`@each`, `@for`).
+
+```sass
+@each $item in $list
+
+  // ...
+
+@for $i from 1 through length($list)
+
+  // ...
+```
+
+**DO NOT** use a single-line space for conditionals.
+
+```sass
+.element
+  // ...
+  @if $something
+    // ...
+  @else
+    // ...
+```
