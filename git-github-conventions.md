@@ -91,12 +91,13 @@ The three parts of a well-structured commit message.
 - Use the imperative (`Fix`, not `Fixes` or `Fixed`)
 - **DO NOT** end the line with a period
 - Limit to 50 characters
+- Treat it as you would a subject line in an email
+- If it accurately describes the commit, leave it at that
+- Try and start the Subject with action words (`Add`, `Update`, `Remove`, `Fix`, etc.)
 
 ```
 Fix the spacing on the sign-in form
 ```
-
-Treat it as you would a subject line in an email. If it accurately describes the commit, leave it at that. If not, use a description, as discussed in the next section.
 
 #### Description
 
