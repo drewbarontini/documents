@@ -85,7 +85,7 @@ The three parts of a well-structured commit message.
 2. Description (optional)
 3. References (optional)
 
-**Subject**
+#### Subject
 
 - Capitalize
 - Use the imperative (`Fix`, not `Fixes` or `Fixed`)
@@ -98,7 +98,7 @@ Fix the spacing on the sign-in form
 
 Treat it as you would a subject line in an email. If it accurately describes the commit, leave it at that. If not, use a description, as discussed in the next section.
 
-**Description**
+#### Description
 
 - Separate from subject line with a newline
 - Wrap at 72 characters
@@ -115,7 +115,7 @@ what and why. Also, use bullet points, if you'd like:
 - These can be helpful
 ```
 
-**References**
+#### References
 
 When using an issue tracker (like GitHub), put references at the bottom with a preceding newline.
 
