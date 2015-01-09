@@ -79,6 +79,58 @@ Additional explanation and summary here, if necessary. (72 chars.)
 Refs: #12 (Use this format for referencing a GitHub Issue)
 ```
 
+The three parts of a well-structured commit message.
+
+1. Subject
+2. Description (optional)
+3. References (optional)
+
+**Subject**
+
+- Capitalize
+- Use the imperative (`Fix`, not `Fixes` or `Fixed`)
+- **DO NOT** end the line with a period
+- Limit to 50 characters
+
+```
+Fix the spacing on the sign-in form
+```
+
+Treat it as you would a subject line in an email. If it accurately describes the commit, leave it at that. If not, use a description, as discussed in the next section.
+
+**Description**
+
+- Separate from subject line with a newline
+- Wrap at 72 characters
+- Explain _what_ and _why_ vs. _how_
+- Use bullet points, if necessary
+
+```
+Fix the spacing on the sign-in form
+
+This is where you would provide additional explanation on the
+what and why. Also, use bullet points, if you'd like:
+
+- Here is a bullet point
+- These can be helpful
+```
+
+**References**
+
+When using an issue tracker (like GitHub), put references at the bottom with a preceding newline.
+
+```
+Fix the spacing on the sign-in form
+
+This is where you would provide additional explanation on the
+what and why. Also, use bullet points, if you'd like:
+
+- Here is a bullet point
+- These can be helpful
+
+Refs: #245
+```
+
 Feature Branches
 ----------------
 
