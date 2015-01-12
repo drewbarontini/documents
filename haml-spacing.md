@@ -113,3 +113,48 @@ Interior
             %li.list-item Item
             %li.list-item Item
 ```
+
+Ruby Conditionals & Loops
+-------------------------
+
+Follow the **LRI** rules above for conditionals and loops as well. For example:
+
+### Conditionals
+
+```haml
+- if conditional
+  %p The conditional is true, so show this thing.
+- else
+  %p The conditional is false, so show this thing.
+```
+
+```haml
+- if conditional
+
+  %p The conditional is true, so show this thing.
+  
+  = link_to 'Button', '/', class: 'btn'
+  
+- else
+
+  %p The conditional is false, so show this thing.
+  
+  = link_to 'Button', '/', class: 'btn'
+```
+
+### Loops
+
+```haml
+- things.each do |thing|
+  %p= thing.title
+```
+
+```haml
+- things.each do |thing|
+
+  .card
+    
+    %p= thing.title
+    
+    = link_to 'Button', '/', class: 'btn'
+```
