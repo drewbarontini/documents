@@ -11,6 +11,7 @@ Categories
 - Git & GitHub
 - jQuery
 - OSX
+- Ruby & Ruby on Rails
 - Sass/CSS
-- Vim
 - Template
+- Vim
