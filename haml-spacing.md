@@ -128,6 +128,8 @@ Follow the **LRI** rules above for conditionals and loops as well. For example:
   %p The conditional is false, so show this thing.
 ```
 
+_There is only a single element, so no newline is created._
+
 ```haml
 - if conditional
 
@@ -142,12 +144,16 @@ Follow the **LRI** rules above for conditionals and loops as well. For example:
   = link_to 'Button', '/', class: 'btn'
 ```
 
+_There are multiple elements, so a newline is created._
+
 ### Loops
 
 ```haml
 - things.each do |thing|
   %p= thing.title
 ```
+
+_There is only a single element, so no newline is created._
 
 ```haml
 - things.each do |thing|
@@ -158,3 +164,5 @@ Follow the **LRI** rules above for conditionals and loops as well. For example:
     
     = link_to 'Button', '/', class: 'btn'
 ```
+
+_There are multiple elements, so a newline is created._
