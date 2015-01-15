@@ -5,6 +5,10 @@ Today I Learned
 
 - If you use `rsync` for deployment, and you're repeatedly asked to enter your password, you have to paste your public key into `.ssh/authorized_keys` on your server.
 
+**jQuery**
+
+- If you are using nested objects and `$.extend()`, pass `true` as the first parameter to make a recursive copy.
+
 **Haml**
 
 - Putting `-#` (Ruby comment) and nesting inside of it will comment out an entire block of Haml without having to comment out each line individually.
