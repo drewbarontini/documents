@@ -20,7 +20,7 @@ Today I Learned
 **Ruby & Ruby on Rails**
 
 - In the console, you can type `_` as the previous command (e.g. `user = _` setting `user` to the previous command you just ran).
-- In Haml, to add punctuation after a `link_to`, do `= link_to('Text', '#') + '.'`.
+- In Haml, to add punctuation after a `link_to`, do `= link_to('Text', '#') + '.'`. You can also add a `= succeed '.' do` block around the `link_to`.
 
 **Terminal/iTerm on OS X**
 
