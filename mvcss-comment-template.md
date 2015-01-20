@@ -14,7 +14,7 @@ It's sometimes useful to add the expected markup for your module as a comment bl
 // -------------------------------------
 //
 // .element[.element--modifier|modifier](.is-state)
-//   %p.element-scaffolding Content
+//   [%p].element-scaffolding Content
 //
 // *************************************
 ```
