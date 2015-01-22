@@ -1,29 +1,58 @@
 Today I Learned
 ===============
 
-**General**
+General
+-------
 
-- If you use `rsync` for deployment, and you're repeatedly asked to enter your password, you have to paste your public key into `.ssh/authorized_keys` on your server.
+> If you use `rsync` for deployment, and you're repeatedly asked to enter your password, you have to paste your public key into `.ssh/authorized_keys` on your server.
 
-**jQuery**
+jQuery
+------
 
-- If you are using nested objects and `$.extend()`, pass `true` as the first parameter to make a recursive copy.
+> If you are using nested objects and `$.extend()`, pass `true` as the first parameter to make a recursive copy.
 
-**Haml**
+Haml
+----
 
-- Putting `-#` (Ruby comment) and nesting inside of it will comment out an entire block of Haml without having to comment out each line individually.
+> Putting `-#` (Ruby comment) and nesting inside of it will comment out an entire block of Haml without having to comment out each line individually.
 
-**OS X**
+```haml
+-#
+  %h1 This Block
+  %p Is now commented out.
+```
 
-- `Command+Option+H` hides all windows but the currently focused one.
+OS X
+----
 
-**Ruby & Ruby on Rails**
+> `Command+Option+H` hides all windows but the currently focused one.
 
-- In the console, you can type `_` as the previous command (e.g. `user = _` setting `user` to the previous command you just ran).
-- In Haml, to add punctuation after a `link_to`, do `= link_to('Text', '#') + '.'`. You can also add a `= succeed '.' do` block around the `link_to`.
-- If you have a merge conflict with `db/schema.rb`, you can just run `rake db:migrate` to clear up the file.
+Ruby & Ruby on Rails
+--------------------
 
-**Terminal/iTerm on OS X**
+> In the console, you can type `_` as the previous command.
 
-- `CTRL+R` does a reverse search on the previous commands you've entered.
-- Command-clicking on an `http://` link will open that link in your default browser.
+```
+User.find(1)
+u = _
+```
+
+> In Haml, to add punctuation after a `link_to`:
+
+```haml
+# Option 1:
+= link_to('Text', '#') + '.'
+
+# Option 2:
+= succeed '.' do
+  = link_to 'Text', '#'
+```
+
+> If you have a merge conflict with `db/schema.rb`, you can just run `rake db:migrate` to clear up the file.
+
+Terminal/iTerm on OS X
+----------------------
+
+> `CTRL+R` does a reverse search on the previous commands you've entered.
+
+> Command-clicking on an `http://` link will open that link in your default browser.
