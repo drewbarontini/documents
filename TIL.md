@@ -37,6 +37,8 @@ User.find(1)
 u = _
 ```
 
+***
+
 > In Haml, to add punctuation after a `link_to`:
 
 ```haml
@@ -48,11 +50,25 @@ u = _
   = link_to 'Text', '#'
 ```
 
+***
+
 > If you have a merge conflict with `db/schema.rb`, you can just run `rake db:migrate` to clear up the file.
+
+***
+
+> In Ruby, you can store regular expressions in variables like so:
+
+```ruby
+regex = '^Hello'
+
+file.gsub(/#{ regex }/, 'Goodbye')
+```
 
 Terminal/iTerm on OS X
 ----------------------
 
 > `CTRL+R` does a reverse search on the previous commands you've entered.
+
+***
 
 > Command-clicking on an `http://` link will open that link in your default browser.
