@@ -13,8 +13,10 @@ It's sometimes useful to add the expected markup for your module as a comment bl
 //   Template (Haml)
 // -------------------------------------
 //
-// .element[.element--modifier|modifier](.is-state)
-//   [%p].element-scaffolding Content
+// .has-context
+//
+// .element[modifier|modifier](state)
+//   %p.element-scaffolding
 //
 // *************************************
 ```
@@ -31,13 +33,15 @@ In practice, this is what it would look like:
 //   Template (Haml)
 // -------------------------------------
 //
-// .dropdown[.dropdown--s](.is-active)
-//   %a.dropdown-btn{href: '#'} Button
+// .has-dropdown
+//
+// .dropdown[s](active)
+//
+//   %a.dropdown-btn
+//
 //   %ul.dropdown-menu
-//     %li.dropdown-item(.is-active)
-//       %a.dropdown-link{href: '#'} Item
-//     %li.dropdown-item
-//       %a.dropdown-link{href: '#'} Item
+//     %li.dropdown-item(active)
+//       %a.dropdown-link
 //
 // *************************************
 ```
