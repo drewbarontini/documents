@@ -9,13 +9,16 @@ It's sometimes useful to add the expected markup for your module as a comment bl
 //   Component/Structure
 //   -> Description
 //
+//   Dependecies: .element
+//
 // -------------------------------------
 //   Template (Haml)
 // -------------------------------------
 //
 // .has-context
 //
-// .element[modifier|modifier](state)
+// .element[modifier|modifier another|another](state|state)
+//
 //   %p.element-scaffolding
 //
 // *************************************
@@ -28,6 +31,8 @@ In practice, this is what it would look like:
 //
 //   Dropdown
 //   -> Dropdown menus
+//
+//   Dependecies: .list
 //
 // -------------------------------------
 //   Template (Haml)
