@@ -30,7 +30,7 @@ In practice, this is what it would look like:
 // *************************************
 //
 //   Dropdown
-//   -> Dropdown menus
+//   -> Hidden menus
 //
 //   Dependecies: .list
 //
