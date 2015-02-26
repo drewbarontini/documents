@@ -9,7 +9,7 @@ Have you ever needed to run some command, or commands, when `cd`-ing into a part
 In your `.bash_profile`, add this line:
 
 ```bash
-PROMPT_COMMAND+='; dispatch'
+export PROMPT_COMMAND="${PROMPT_COMMAND:+$PROMPT_COMMAND ;} dispatch"
 ```
 
 2. dispatch Function
