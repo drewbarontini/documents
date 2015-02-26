@@ -1,7 +1,7 @@
 Bash Project Setup
 ==================
 
-Have you ever needed to run some command when `cd`-ing into a particular project? Well, there's a way to do this in Bash by hooking into the `PROMPT_COMMAND` variable.
+Have you ever needed to run some command, or commands, when `cd`-ing into a particular project? Well, there's a way to do this in Bash by hooking into the `PROMPT_COMMAND` variable.
 
 1. PROMPT_COMMAND
 -----------------
