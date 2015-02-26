@@ -6,9 +6,10 @@ Have you ever needed to run some command, or commands, when `cd`-ing into a part
 1. PROMPT_COMMAND
 -----------------
 
-In your `.bash_profile`, add this line:
+In your `.bash_profile`, add this:
 
 ```bash
+export DISPATCHED=0
 export PROMPT_COMMAND="${PROMPT_COMMAND:+$PROMPT_COMMAND ;} dispatch"
 ```
 
@@ -30,8 +31,11 @@ function dispatch() {
   local path=$(pwd)
   local project=$(basename $path)
 
-  if type -t "$project"_setup | grep -i function > /dev/null; then
-    "$project"_setup
+  if [ "$DISPATCHED" == 0 ]; then
+    if type -t "$project"_setup | grep -i function > /dev/null; then
+      "$project"_setup
+      DISPATCHED=1
+    fi
   fi
 }
 ```
