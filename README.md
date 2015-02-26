@@ -6,6 +6,7 @@ A collection of Markdown documents. Each file is prefixed with the category name
 Categories
 ----------
 
+- Bash
 - CoffeeScript
 - Haml/HTML
 - Git & GitHub
