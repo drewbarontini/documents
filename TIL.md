@@ -71,4 +71,8 @@ Terminal/iTerm on OS X
 
 ***
 
+`xargs` allows you to run another command on a set of arguments (e.g. `git tag -l | xargs git tag -d`)
+
+***
+
 Command-clicking on an `http://` link will open that link in your default browser.
