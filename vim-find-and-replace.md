@@ -2,7 +2,7 @@ Vim - Find & Replace
 ====================
 
 ```shell
-:Ack 'something'
+:g 'something'
 :Qargs
 :argdo %s/something/thing/gc
 :argdo update
