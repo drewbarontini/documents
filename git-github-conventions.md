@@ -154,7 +154,7 @@ Pull Requests are great on GitHub, because they allow you to view changes and co
 Like your commit messages, your Pull Request description should do a thorough job:
 
 - Explaining *what* your feature branch changes
-- Eplaining *why* your feature branch is making these changes
+- Explaining *why* your feature branch is making these changes
 - Showing relevant screenshots, if it's a design change
 - Explaining the status of the feature branch
 - Clueing in the right people on the team
