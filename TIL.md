@@ -6,6 +6,10 @@ General
 
 If you use `rsync` for deployment, and you're repeatedly asked to enter your password, you have to paste your public key into `.ssh/authorized_keys` on your server.
 
+***
+
+If you select text in Chrome, you can click and drag the text into the tab bar, which will open a new tab and search Google with that selected text.
+
 jQuery
 ------
 
