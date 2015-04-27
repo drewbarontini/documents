@@ -85,3 +85,5 @@ Now you can call the partial, passing in appropriate options:
 ```haml
 = render partial: 'icon', locals: { name: 'menu', size: 24 }
 ```
+
+Credit to [@johndjameson](https://github.com/johndjameson) for the partial.
