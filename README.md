@@ -14,5 +14,6 @@ Categories
 - OSX
 - Ruby & Ruby on Rails
 - Sass/CSS
+- SVG
 - Template
 - Vim
