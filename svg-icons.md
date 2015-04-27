@@ -86,4 +86,26 @@ Now you can call the partial, passing in appropriate options:
 = render partial: 'icon', locals: { name: 'menu', size: 24 }
 ```
 
-Credit to [@johndjameson](https://github.com/johndjameson) for the partial.
+## 5. Add CSS file to set basic styles
+
+Add `_icon.sass` partial file:
+
+```sass
+// *************************************
+//
+//   Icon
+//   -> Single-color vector
+//
+// -------------------------------------
+//   Template (Haml)
+// -------------------------------------
+//
+// %svg.icon
+//
+// *************************************
+
+.icon
+  fill: currentColor
+```
+
+Credit to [@johndjameson](https://github.com/johndjameson) for the partial and Sass file.
