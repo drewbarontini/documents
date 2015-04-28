@@ -10,6 +10,11 @@ If you use `rsync` for deployment, and you're repeatedly asked to enter your pas
 
 If you select text in Chrome, you can click and drag the text into the tab bar, which will open a new tab and search Google with that selected text.
 
+JavaScript
+----------
+
+JavaScript has an `every` method on Arrays that accepts a callback function to check if each element in the array passes that validation and then returns a Boolean, if so.
+
 jQuery
 ------
 
