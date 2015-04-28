@@ -68,15 +68,16 @@ To use an individual icon, you need to reference the one you want from the embed
 To make things even easier, create an `_icon` partial file (if using Rails/Middleman, etc.):
 
 ```haml
-- name   ||= ''
-- size   ||= 40
-- width  ||= size
-- height ||= size
+- name       ||= ''
+- class_name ||= ''
+- size       ||= 40
+- width      ||= size
+- height     ||= size
 
 - unless defined? text
   %span.srt= name.humanize
 
-%svg.icon{ width: width, height: height }
+%svg{ class: "icon #{ class_name }", width: width, height: height }
   %use{ 'xlink:href' => "#icon-#{ name }" }
 ```
 
