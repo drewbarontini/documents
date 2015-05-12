@@ -51,7 +51,7 @@ gulp.task( 'icons', function() {
 
 ```haml
 .dn
-  = render partial: 'assets/images/icons/icons.svg'
+  = render 'assets/images/icons/icons.svg'
 ```
 
 The `.dn` class is a utility class for `display: none`. We'll need this, since we want it to be hidden.
