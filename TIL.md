@@ -91,3 +91,8 @@ Terminal/iTerm on OS X
 ***
 
 Command-clicking on an `http://` link will open that link in your default browser.
+
+Vim
+---
+
+`:1,20` with `20` being the highest-numbered buffer will clear all buffers.
