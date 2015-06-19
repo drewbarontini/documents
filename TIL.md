@@ -96,3 +96,7 @@ Vim
 ---
 
 `:1,20` with `20` being the highest-numbered buffer will clear all buffers.
+
+***
+
+`c/` will change up and until the a search term.
