@@ -99,4 +99,4 @@ Vim
 
 ***
 
-`c/` will change up and until the a search term.
+`c/` will change up and until the search term.
