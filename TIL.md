@@ -26,6 +26,25 @@ jQuery
 
 If you are using nested objects and `$.extend()`, pass `true` as the first parameter to make a recursive copy.
 
+***
+
+The `$.ajax` method returns a Promise, so you can do something like this:
+
+```coffeescript
+myFunction = ->
+  # ...
+  
+  call = $.ajax({
+    # ...
+  })
+  
+  return call
+  
+myFunction().done( (data) ->
+  # ...
+)
+```
+
 Haml
 ----
 
