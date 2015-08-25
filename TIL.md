@@ -114,7 +114,7 @@ Command-clicking on an `http://` link will open that link in your default browse
 Vim
 ---
 
-`:1,20` with `20` being the highest-numbered buffer will clear all buffers.
+`:1,20bd` with `20` being the highest-numbered buffer will clear all buffers.
 
 ***
 
