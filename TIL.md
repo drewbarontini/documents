@@ -119,3 +119,7 @@ Vim
 ***
 
 `c/` will change up and until the search term.
+
+***
+
+Vim functions are capitalized to avoid confusion with the built-in functions.
