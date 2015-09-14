@@ -98,6 +98,10 @@ regex = '^Hello'
 file.gsub(/#{ regex }/, 'Goodbye')
 ```
 
+***
+
+In the console, you can type `y` in front of commands for a prettier output.
+
 Terminal/iTerm on OS X
 ----------------------
 
