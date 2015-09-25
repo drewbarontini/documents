@@ -39,16 +39,16 @@ Once Haml is installed, you'll need to convert the Rails `app/views/layouts/appl
 ```haml
 !!! 5
 %html(lang='en')
-%head
+  %head
 
-  %title Comics
-  = stylesheet_link_tag    'application'
-  = javascript_include_tag 'application'
-  = csrf_meta_tags
+    %title Comics
+    = stylesheet_link_tag    'application'
+    = javascript_include_tag 'application'
+    = csrf_meta_tags
 
-%body
+  %body
 
-  = yield
+    = yield
 ```
 
 5. Set up Models & Database
@@ -69,7 +69,7 @@ bundle install
 
 # Database
 cp config/database.example.yml config/database.yml
-bundle exec rake db:create db:setup
+bundle exec rake db:setup
 
 # Pow
 gem install powder
