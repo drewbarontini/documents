@@ -21,6 +21,10 @@ JavaScript has an `every` ([MDN](https://developer.mozilla.org/en-US/docs/Web/Ja
 } ); // returns true
 ```
 
+***
+
+You can add `keyup` to a `form` and have it trigger on any child `input`s' keyup event.
+
 jQuery
 ------
 
