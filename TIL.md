@@ -131,3 +131,7 @@ Vim
 ***
 
 Vim functions are capitalized to avoid confusion with the built-in functions.
+
+***
+
+You can go to a misspelled word and type `z=` to bring up a Dictionary suggestion list for fixing the spelling error.
