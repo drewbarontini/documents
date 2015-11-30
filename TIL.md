@@ -119,6 +119,11 @@ Terminal/iTerm on OS X
 
 Command-clicking on an `http://` link will open that link in your default browser.
 
+tmux
+----
+
+If keybindings suddenly stop working, run `tmux kill-server` and restart your sessions.
+
 Vim
 ---
 
