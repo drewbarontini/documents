@@ -50,10 +50,6 @@ With these _Themes_ in place — which I actually add as calendar events (`Admin
 
 In addition to the themes, I also have a _Focus_. I set this week to week, but it also can extend into a longer timeframe. For example, right now I'm working on a project related to "Onboarding," so that is my current _Focus_. When I plan for next week, I will create an event (`Onboarding (F)`) that extends Monday-Friday. Now, each morning, when I review my schedule for the day, I'm able to see which _Theme_ lines up with the _Focus_. For example, on Monday I'll do _Administrative_ tasks related to _Onboarding_ primarily.
 
-## Milestones
-
-...
-
-## Tasks
+## Tasks & Milestones
 
 ...
