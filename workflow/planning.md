@@ -19,7 +19,7 @@ Look at next week's scheduled events:
 - How many meetings are scheduled?
 - How many hours can I "block off" for work?
 
-## Blocking off time for work tasks
+### Blocking off time for work tasks
 
 If you have meetings to go alongside your expected weekly tasks, I recommend "blocking off" time for work in the calendar. I look at the calendar and fill the open time (during work hours) with "Work" events (marked as _Private_ to just show me as busy). If there is more open time than I need, I leave those open, and I try and schedule pairing time, or look at what future tasks I can get started on then.
 
@@ -27,7 +27,7 @@ _Yes, unexpected events come up, but setting this time helps in achieving my tas
 
 I also block off time for any breaks I might need, lunch time, and any personal errand(s) I have to run during work hours.
 
-## Themes & Focus
+### Themes & Focus
 
 Something that I learned from [Mike Vardy](https://twitter.com/mikevardy) — and slightly modified — is to create _Themes_, as well as a monthly (or weekly, in my case) _Focus_.
 
