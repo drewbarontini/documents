@@ -38,14 +38,6 @@ For example, the _Themes_ that I use are:
 - **Progress**: Team check-ins,, feedback, code reviews, pairing planning, keep up with tech etc.
 - **Planning**: Weekly (and quarterly) planning.
 
-## Milestones
-
-...
-
-## Tasks
-
-...
-
 And this is how that fits into my schedule Monday-Friday:
 
 - **Monday**: _Administration_
@@ -57,3 +49,11 @@ And this is how that fits into my schedule Monday-Friday:
 With these _Themes_ in place — which I actually add as calendar events (`Administration (T)`) — I'm able to determine _which_ tasks should be completed _when_. Oh, and remember how we blocked off the work time? Well, now we do know the actual _when_.
 
 In addition to the themes, I also have a _Focus_. I set this week to week, but it also can extend into a longer timeframe. For example, right now I'm working on a project related to "Onboarding," so that is my current _Focus_. When I plan for next week, I will create an event (`Onboarding (F)`) that extends Monday-Friday. Now when I review my schedule for the day in the morning, I'm able to see which _Theme_ lines up with the _Focus_. For example, on Monday I'll do _Administrative_ tasks related to _Onboarding_ primarily.
+
+## Milestones
+
+...
+
+## Tasks
+
+...
