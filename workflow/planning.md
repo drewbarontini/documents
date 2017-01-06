@@ -29,7 +29,7 @@ I also block off time for any breaks I might need, lunch time, and any personal 
 
 ### Themes & Focus
 
-Something that I learned from [Mike Vardy](https://twitter.com/mikevardy) — and slightly modified — is to create _Themes_, as well as a monthly (or weekly, in my case) _Focus_.
+Something that I learned from [Mike Vardy](https://twitter.com/mikevardy) — and slightly modified — is to create _Themes_, as well as a monthly _Focus_ (or weekly, in my case).
 
 For example, the _Themes_ that I use are:
 
