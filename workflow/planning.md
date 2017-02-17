@@ -9,8 +9,6 @@ Every Friday, I plan out the next week to have:
 
 **Note**: I do this _exact_ same process for both my professional life and my personal life. I think that is vital to making sure that work isn't superceding life.
 
-_On the management side of things, I also have to look at team planning, but, as that's an aside to my personal organization, it's not mentioned in detail here._
-
 ## Calendar
 
 Look at next week's scheduled events:
