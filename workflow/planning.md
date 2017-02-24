@@ -3,7 +3,7 @@
 Every Friday, I plan out the next week to have:
 
 - My calendar organized and all events scheduled and accounted for
-- My **Weekly Milestones** set and reviewed (will cover in more detail later)
+- My **OKRs** set and reviewed (will cover in more detail later)
 - My task list organized and prioritized (with _Weekly Milestones_ scheduled)
 - My **Focus** set (will cover in more detail later)
 
@@ -48,8 +48,8 @@ With these _Themes_ in place — which I actually add as calendar events (`Admin
 
 In addition to the themes, I also have a _Focus_. I set this week to week, but it also can extend into a longer timeframe. For example, right now I'm working on a project related to "Onboarding," so that is my current _Focus_. When I plan for next week, I will create an event (`Onboarding (F)`) that extends Monday-Friday. Now, each morning, when I review my schedule for the day, I'm able to see which _Theme_ lines up with the _Focus_. For example, on Monday I'll do _Administrative_ tasks related to _Onboarding_ primarily.
 
-## Tasks & Milestones
+## Tasks & OKRs
 
 After the _Themes_ and _Focus_ are set, I'm able to then look at my _Tasks_ and _Milestones_ for the upcoming week.
 
-*Milestones* are set for _Weekly_, _Quarterly_, and _Yearly_ intervals. I focus on my _yearly_ milestones first, so that I'm then able to break those down into _quarterly_ and _weekly_ milestones. Each week, I look at my _yearly_ and _quarterly_ milestones to determine what can be achieved in the upcoming week. Once those are set, I look at my `Next 7 Days` list of tasks to make sure and schedule the _weekly_ milestones, accordingly.
+*OKRs* are set for _Weekly_, _Quarterly_, and _Yearly_ intervals. I focus on my _yearly_ OKRs first, so that I'm then able to break those down into _quarterly_ and _weekly_ OKRs. Each week, I look at my _yearly_ and _quarterly_ OKRs to determine what can be achieved in the upcoming week. Once those are set, I look at my `Next 7 Days` list of tasks to make sure and schedule the _weekly_ OKRs, accordingly.
