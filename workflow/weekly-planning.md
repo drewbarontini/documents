@@ -1,4 +1,4 @@
-# Planning
+# Weekly Planning
 
 Every Friday, I plan out the next week to have:
 
