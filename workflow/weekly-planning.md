@@ -52,4 +52,4 @@ In addition to the themes, I also have a _Focus_. I set this week to week, but i
 
 After the _Themes_ and _Focus_ are set, I'm able to then look at my _Tasks_ and _OKRs_ for the upcoming week.
 
-*OKRs* are set for _Weekly_, _Quarterly_, and _Yearly_ intervals. I focus on my _yearly_ OKRs first, so that I'm then able to break those down into _quarterly_ and _weekly_ OKRs. Each week, I look at my _yearly_ and _quarterly_ OKRs to determine what can be achieved in the upcoming week. Once those are set, I look at my `Next 7 Days` list of tasks to make sure and schedule the _weekly_ OKRs, accordingly.
+*OKRs* are set for _Weekly_, _Quarterly_, and _Yearly_ intervals. I focus on my _yearly_ OKRs first, so that I'm then able to break those down into _quarterly_ and _weekly_ OKRs. Each week, I look at my _yearly_ and _quarterly_ OKRs to determine what can be achieved in the upcoming week. Once those are set, I look at each project and my `Next 7 Days` list of tasks to make sure and schedule the _weekly_ OKRs — and anything else — accordingly.
