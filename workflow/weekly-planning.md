@@ -3,9 +3,9 @@
 Every Friday, I plan out the next week to have:
 
 - My calendar organized and all events scheduled and accounted for
-- My **OKRs** set and reviewed (will cover in more detail later)
-- My task list organized and prioritized (with _Weekly OKRs_ scheduled)
-- My **Focus** set (will cover in more detail later)
+- My **OKRs** set and reviewed
+- My task list organized
+- My **Focus** set
 
 **Note**: I do this _exact_ same process for both my professional life and my personal life. I think that is vital to making sure that work isn't superceding life.
 
