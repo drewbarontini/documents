@@ -23,7 +23,7 @@ If you have meetings to go alongside your expected weekly tasks, I recommend "bl
 
 _Yes, unexpected events come up, but setting this time helps in achieving my tasks, and I'm able to point to which events did prevent me from completing my tasks._
 
-I also block off time for any breaks I might need, lunch time,  any personal errand(s) I have to run during work hours, and personal projects and learning time.
+I also block off time for any breaks I might need, lunch time, chores, personal errand(s), personal projects, and learning time.
 
 ### Themes & Focus
 
