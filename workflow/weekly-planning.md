@@ -53,3 +53,8 @@ In addition to the themes, I also have a _Focus_. I set this week to week, but i
 After the _Themes_ and _Focus_ are set, I'm able to then look at my _Tasks_ and _OKRs_ for the upcoming week.
 
 *OKRs* are set for _Weekly_, _Quarterly_, and _Yearly_ intervals. I focus on my _yearly_ OKRs first, so that I'm then able to break those down into _quarterly_ and _weekly_ OKRs. Each week, I look at my _yearly_ and _quarterly_ OKRs to determine what can be achieved in the upcoming week. Once those are set, I look at each project and my `Next 7 Days` list of tasks to make sure and schedule the _weekly_ OKRs — and anything else — accordingly.
+
+- Is there anything I can take action on this next week?
+- Am I distributing my tasks out across the days each week?
+- Do the tasks align with my _Themes_ I've set?
+- Am I hitting all the tasks for my _Focus_?
