@@ -1,4 +1,4 @@
-# Issue Templates for GitHub Pull Requests
+# Issue Template for GitHub Pull Requests
 
 ## Description
 
